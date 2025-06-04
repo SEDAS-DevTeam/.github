@@ -1,7 +1,7 @@
 # SEDAS DevTeam organization github
 
 The sole purpose of this organization is to gather all the projects that are under the **SEDAS** project (**S**calable and **E**asily **D**eployable **A**TC **S**imulator).
-Project is now divided into several projects, that are interconnected in various ways.
+Project is now divided into several projects, that are interconnected in various ways. The main website about this project is located on the [sedas website](https://sedas-devteam.github.io/sedas.github.io/).
 
 ## Projects
 - [SEDAS-manager](https://github.com/SEDAS-DevTeam/SEDAS-manager) - SEDAS desktop application
